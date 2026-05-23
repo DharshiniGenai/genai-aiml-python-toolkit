@@ -1,0 +1,11 @@
+user_id,prediction,score,rules
+101,0,1,adult
+102,0,1,adult
+103,0,1,adult
+104,0,1,adult
+105,1,3,high_income|adult
+106,0,1,adult
+107,0,1,adult
+108,1,3,high_income|adult
+109,0,1,adult
+110,0,0,

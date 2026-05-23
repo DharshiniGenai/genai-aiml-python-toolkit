@@ -1,0 +1,11 @@
+user_id,age,income,city,purchased,signup_date,is_adult,income_bucket
+101,28,65000.0,New York,True,2023-01-15,True,Mid
+102,30,54000.0,Unknown,False,2023-01-16,True,Mid
+103,30,45000.0,Chicago,True,15-01-2023,True,Mid
+104,30,59500.0,Seattle,True,2023-02-01,True,Mid
+105,30,75000.0,Austin,True,2023-03-15,True,High
+106,22,59500.0,Boston,False,2023-04-12,True,Mid
+107,30,40000.0,Miami,True,2023-05-20,True,Mid
+108,45,85000.0,Denver,True, 2023-06-01,True,High
+109,34,59500.0,San Francisco,False,2023-07-01,True,Mid
+110,17,15000.0,New York,False,2023-08-05,False,Low

@@ -1,0 +1,15 @@
+# requirements.txt
+
+```txt
+# No external ML libraries used
+
+# Built-in Python libraries used:
+# csv
+# json
+# os
+# collections
+# statistics
+
+# Python Version
+python>=3.10
+```

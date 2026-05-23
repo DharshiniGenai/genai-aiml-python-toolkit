@@ -1,0 +1,92 @@
+{
+    "101": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 65000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "102": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 54000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "103": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 45000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "104": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 59500.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "105": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 1,
+        "avg_price_viewed": 75000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 1
+    },
+    "106": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 59500.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "107": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 40000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "108": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 1,
+        "avg_price_viewed": 85000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 1
+    },
+    "109": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 1,
+        "purchase_count": 0,
+        "avg_price_viewed": 59500.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    },
+    "110": {
+        "total_events": 1,
+        "views_count": 2,
+        "cart_count": 0,
+        "purchase_count": 0,
+        "avg_price_viewed": 15000.0,
+        "most_viewed_product": "ProductA",
+        "conversion_flag": 0
+    }
+}

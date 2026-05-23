@@ -1,0 +1,11 @@
+user_id,score,sentiment
+101,2,Positive
+102,-2,Negative
+103,2,Positive
+104,-2,Negative
+105,2,Positive
+106,0,Positive
+107,2,Positive
+108,-2,Negative
+109,2,Positive
+110,0,Positive

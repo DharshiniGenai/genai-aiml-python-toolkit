@@ -1,0 +1,9 @@
+Top Positive Words:
+great: 4
+easy: 3
+excellent: 3
+
+Top Negative Words:
+slow: 2
+bad: 2
+hard: 2
