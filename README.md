@@ -82,7 +82,7 @@ Open terminal or command prompt inside the project directory.
 Example:
 
 ```bash
-cd Project1
+cd genai_aiml_python_toolkit
 ```
 
 ---
