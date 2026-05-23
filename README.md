@@ -35,7 +35,7 @@ This project demonstrates several important AI/ML and Python programming concept
 # 📂 Project Structure
 
 ```text
-Project1/
+genai-aiml-python-toolkit/
 │
 ├── main.py
 ├── loader.py
