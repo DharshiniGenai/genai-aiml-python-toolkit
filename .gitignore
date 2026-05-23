@@ -1,0 +1,23 @@
+# .gitignore
+
+```gitignore
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Output generated files
+outputs/*.csv
+outputs/*.json
+outputs/*.txt
+```
+
+
